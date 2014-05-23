@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  activity_name: MyString
+  string: MyString
+  activity_description: MyString
+  string: MyString
+  activity_details: MyString
+  string: MyString
+  activity_location: MyString
+  string: MyString
+  activity_time: MyString
+  string: MyString
+  activity_date: MyString
+  string: MyString
+
+two:
+  activity_name: MyString
+  string: MyString
+  activity_description: MyString
+  string: MyString
+  activity_details: MyString
+  string: MyString
+  activity_location: MyString
+  string: MyString
+  activity_time: MyString
+  string: MyString
+  activity_date: MyString
+  string: MyString
